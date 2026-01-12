@@ -4,7 +4,7 @@ import pyttsx3
 import requests
 
 # ---------------- CONFIG ----------------
-WEATHER_API_KEY = "11c5ae9c10bfdc9b1fb41d9380bbf25b"
+WEATHER_API_KEY = "YOUR API"
 DEFAULT_CITY = "Mumbai"
 
 # ---------------- VOICE ----------------
