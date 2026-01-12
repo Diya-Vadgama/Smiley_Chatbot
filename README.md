@@ -1,4 +1,4 @@
-Smiley AI is a Python-based desktop virtual assistant with a modern dark-mode GUI, built using Tkinter.
+Smiley AI is a Python-based desktop virtual assistant with a modern dark-mode GUI.
 It combines useful daily features with a friendly personality and female voice interaction to create an engaging AI experience.
 
 ✨ Features
